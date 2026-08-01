@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "main.py": {
+      "includeFiles": "*.pkl",
+      "memory": 3008,
+      "maxDuration": 60
+    }
+  }
+}
